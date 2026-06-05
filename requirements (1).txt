@@ -1,0 +1,18 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+nltk
+
+# Web app framework
+streamlit
+
+# Visualization
+matplotlib
+seaborn
+
+# Model persistence
+joblib
+
+# Utilities
+regex
